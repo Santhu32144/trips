@@ -1,0 +1,19 @@
+Category,Item,Qty,Rate (Rs),Amount (Rs),Notes
+Transport,TT km charge,1050,18,18900,Includes TT rent + driver salary
+Transport,Driver bata,3,500,1500,Fri/Sat/Sun - confirm if 4th day after midnight
+Transport,Tolls round trip,1,4000,4000,Approx 8-9 tolls each way (LCV)
+Transport,TN permit / border tax,1,2500,2500,Confirmed
+Transport,Kodai entry tax + parking,1,1000,1000,
+Stay,Group cottage 1 night,1,13000,13000,13 people (12 guests + guide)
+Stay,Driver room,1,500,500,
+Stay,Bonfire,1,1000,1000,
+Food,5 meals + snacks,13,1100,14300,12 guests + guide
+Entry,Tickets + boating,13,300,3900,
+Misc,Water/first-aid/buffer,1,1500,1500,
+,,,,,
+TOTAL,,,,62100,
+Paying guests,,,,12,
+Cost per head,,,,5175,
+Selling price per head,,,,6299,
+Revenue,,,,75588,
+GUIDE PROFIT,,,,13488,

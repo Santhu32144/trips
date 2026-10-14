@@ -1,0 +1,19 @@
+Category,Item,Qty,Rate (Rs),Amount (Rs),Notes
+Transport,TT km charge,750,18,13500,Billed min 250 km/day x 3 (actual ~700 km)
+Transport,Driver bata,3,500,1500,Fri/Sat/Sun
+Transport,Tolls round trip,1,2000,2000,Bangalore-Mysore Expressway etc.
+Transport,TN permit / border tax,1,2500,2500,Confirmed
+Transport,Nilgiris green tax + parking,1,1200,1200,
+Stay,Group cottage 1 night,1,14000,14000,13 people (12 guests + guide)
+Stay,Driver room,1,500,500,
+Stay,Bonfire,1,1000,1000,
+Food,5 meals + snacks,13,1100,14300,12 guests + guide
+Entry,Tickets + boating,13,600,7800,Pykara/Ooty lake boating + gardens
+Misc,Water/first-aid/buffer,1,1500,1500,
+,,,,,
+TOTAL,,,,59800,
+Paying guests,,,,12,
+Cost per head,,,,4983,
+Selling price per head,,,,5799,
+Revenue,,,,69588,
+GUIDE PROFIT,,,,9788,
