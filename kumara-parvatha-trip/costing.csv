@@ -1,0 +1,22 @@
+Category,Item,Qty,Rate (Rs),Amount (Rs),Notes
+Transport,TT km charge,750,18,13500,Billed min 250 km/day x 3 (actual ~610-650 km)
+Transport,Driver bata,3,500,1500,Fri/Sat/Sun
+Transport,Tolls round trip,1,2000,2000,Bangalore-Mysuru Expressway etc.
+Transport,Border / permit tax,1,0,0,Karnataka only - no border
+Transport,Parking,1,600,600,Checkpost/Mallalli/Bylakuppe/Nisargadhama
+Stay,Shared homestay 1 night,13,700,9100,12 guests + guide - separate rooms for men & women
+Stay,Early check-in Sat 4 AM,1,1500,1500,
+Stay,Driver room,1,500,500,
+Stay,Campfire,1,500,500,Weather permitting
+Food,4 meals (Sat B/L/D + Sun B),13,550,7150,South Indian veg - Sun lunch/dinner and snacks not included
+Tickets,KP forest ticket,13,300,3900,Rs 300 per person - 12 guests + guide
+Tickets,Forest nature guides (if separate),2,1000,2000,1 guide per 10 trekkers - remove if included in ticket
+Entry,Sunday entry fees,13,60,780,Mallalli + Nisargadhama (Golden Temple free)
+Misc,First-aid/ORS/garbage bags/buffer,1,1500,1500,
+,,,,,
+TOTAL,,,,44530,
+Paying guests,,,,12,
+Cost per head,,,,3711,
+Selling price per head,,,,4199,
+Revenue,,,,50388,
+GUIDE PROFIT,,,,5858,
