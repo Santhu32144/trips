@@ -1,0 +1,8 @@
+# Only Markdown files go to git – PDFs, images, posters, CSVs, scripts, fonts etc. stay local.
+# Ignore everything...
+*
+# ...but keep looking inside folders...
+!*/
+# ...and keep .md files and this file.
+!*.md
+!.gitignore

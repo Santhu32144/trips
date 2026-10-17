@@ -1,7 +1,9 @@
-# Kodaikanal Weekend Trip – Bangalore (Trip Guide Plan)
+# Shikhara Trails – Kodaikanal Weekend Trip from Bangalore (Trip Guide Plan)
+
+**Brand:** **Shikhara Trails** – our travel name on the brochure, poster and WhatsApp (replaces Nihanth Tours and Travels)
 
 **Trip type:** Group trip, 12 seats, Tempo Traveller (TT)
-**Duration:** Friday night → Sunday night (2 days in Kodaikanal, 1 night hotel stay)
+**Dates:** Friday 23 Oct night → Sunday 25 Oct night 2026 (2 days in Kodaikanal, 1 night hotel stay)
 **States crossed:** Only ONE border – Karnataka → Tamil Nadu (Attibele/Hosur). No Kerala.
 **Distance:** ~470 km one way, ~1,000–1,050 km total including local sightseeing
 
@@ -19,6 +21,9 @@
 | [08-google-maps-links.md](08-google-maps-links.md) | Google Maps links – full route, Day 1, Day 2, return, each place |
 | [09-instagram-poster-prompt.md](09-instagram-poster-prompt.md) | AI poster prompts, Canva layout, carousel idea, Instagram caption |
 | [costing.csv](costing.csv) | Cost sheet – open in Excel / Google Sheets and change numbers |
+| [Shikhara-Trails-Kodaikanal-2-Day-Trip.pdf](Shikhara-Trails-Kodaikanal-2-Day-Trip.pdf) | **Guest brochure** (10 pages, with a "Places We Explore" photo page) – share on WhatsApp (no costing inside) |
+| [brochure/](brochure/) | Generator for the PDF. Edit `build_brochure.py` (dates, prices, text, photos), run `python kodaikanal-trip/brochure/build_brochure.py` – it also saves a copy in `I:\trips\trip-pdf` |
+| [image/places/](image/places/) | Place photos from Wikimedia Commons (free licences) – keep the credits line in the PDF |
 
 ## Quick summary
 
@@ -31,7 +36,7 @@
 ## Most important things (don't skip)
 
 1. **Kodaikanal e-pass** for the TT – register on `epass.tnega.org` before the trip (needed since 2024; check it's still in force).
-2. **TN permit / border tax: ₹2,500** (confirmed) – get the receipt on WhatsApp before departure.
+2. **TN permit for the TT: ₹2,500** (confirmed) – get the receipt on WhatsApp before departure.
 3. **Driver must sleep properly Saturday night** – he drives through 2 nights. Book him a bed.
 4. **Plastic is banned in Kodaikanal** – no plastic bottles/covers, fines are charged.
 5. **Leave Kodaikanal by 1:00 PM Sunday** to reach Bangalore by ~11:30 PM.

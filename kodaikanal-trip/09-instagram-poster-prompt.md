@@ -19,7 +19,7 @@ PHOTO ACCURACY: Kurinji Andavar Temple is a SMALL hill temple with a modest towe
 
 TEXT ON POSTER (spell exactly as written):
 
-Top-left logo: "Nihanth Tours and Travels"
+Top-left logo: "Shikhara Trails"
 Big title: "KODAIKANAL"
 Subtitle: "Weekend Escape to the Princess of Hill Stations"
 Date line: "23 Oct - 25 Oct | Friday Night to Sunday Night"
